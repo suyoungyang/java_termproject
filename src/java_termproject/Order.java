@@ -1,5 +1,17 @@
 package java_termproject;
 
+/*
+ * 작성자 : 양수영
+ * 작성 날짜 : 2019년05월01일
+ * 파일명 : Order.java
+ * 버젼 : ver.1.0
+ * 설명 : 주문을 저장하기 위한 Order클래스
+ * 
+ * 수정날짜 : 2019년05월08일
+ * 수정자 : 양수영
+ * 버젼 : ver.1.1
+ */
+
 public class Order {
 	public String product;
 	public int ea;
